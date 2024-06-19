@@ -34,7 +34,7 @@ sudo apt-get install -y dotnet-sdk-7.0
 ```
 # Installing the C# depencies on Arch Linux
 ```sh
-dotnet new -i Avalonia.Templates
+sudo pacman -S dotnet-sdk
 ```
 
 
